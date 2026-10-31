@@ -1,0 +1,14 @@
+{
+  "name": "@ag064/debug-toolkit",
+  "version": "1.0.0",
+  "description": "React & TypeScript debugging utilities: render counters, prop change trackers, API tracers, and more.",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["react", "typescript", "debugging", "utilities", "developer-tools"],
+  "author": "AG064 (Aleksey Aleksandrovich)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AG064/debug-toolkit"
+  }
+}
